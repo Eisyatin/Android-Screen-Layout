@@ -9,7 +9,7 @@ This repository contains my beginner exercises using Android Studio, where I lea
 2. **Create Button and Icon:** Add a button and an icon to the interface.
 3. **Button Click Action:** When the button is clicked, the interface transitions to the “Main Activity” screen.
 
-![Background Layout](https://github.com/Eisyatin/Android-Screen-Layout/blob/main/path_to_image/background.png)
+![Background Layout](https://github.com/Eisyatin/Android-Screen-Layout/blob/master/githublab2.1.png)
 
 ### Lab 2a: List Layout
 1. **Create List of Month Names:** Implement a scrollable list displaying the names of the months.
